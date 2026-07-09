@@ -1,16 +1,11 @@
-## 蹇€熷叆鍙?
-| 鍏ュ彛 | 鍦板潃 |
+## &#24555;&#36895;&#20837;&#21475;
+
+| &#20837;&#21475; | &#22320;&#22336; |
 | --- | --- |
-| GPT5.6閫氶亾 | https://pay.kklt.lol/ |
-| Claude4.8閫氶亾 | https://fuckme.443.hk/ |
-| 鎵撳紑 Free2AI 鍏嶈垂瀵艰埅 | https://free2ai.pages.dev/ |
-| 鐢垫姤瀹㈡湇鍜ㄨ | https://t.me/kkscshop |
-
-﻿# 免费 Gemini DeepSeek 网关
-
-mistral-llm-free-flow 是一个围绕免费 AI 中转、低价 AI API、白送试用额度和顶级大模型接入整理的导航仓库。内容参考 Free2AI 当前项目结构，重点面向想低成本体验 GPT、Claude、Gemini、DeepSeek、Llama、Qwen、Grok、Mistral 等模型的用户。
-
-关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+| GPT5.6&#36890;&#36947; | https://pay.kklt.lol/ |
+| Claude4.8&#36890;&#36947; | https://fuckme.443.hk/ |
+| &#25171;&#24320; Free2AI &#20813;&#36153;&#23548;&#33322; | https://free2ai.pages.dev/ |
+| &#30005;&#25253;&#23458;&#26381;&#21672;&#35810; | https://t.me/kkscshop |
 
 ## 项目定位
 
